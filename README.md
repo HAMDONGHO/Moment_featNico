@@ -1,1 +1,1 @@
-This is my JSP Project
+This is my fitst Web Project
